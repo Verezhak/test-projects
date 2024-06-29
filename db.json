@@ -1,0 +1,64 @@
+{
+    "projects" : [
+      {
+        "id": 1,
+        "title": "Power pulse webservice ",
+        "description": "React, JavaScript, Node JS, Git",
+        "image": "./src/img/project-1.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Mimino website",
+        "description": "React, JavaScript, Node JS, Git",
+        "image": "./src/img/project-2.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Vyshyvanka vibes Landing Page",
+        "description": "React, JavaScript, Node JS, Git",
+        "image": "./src/img/project-3.jpeg"
+      },
+      {
+          "id": 4,
+          "title": "Green harvest online store",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-4.jpeg"
+        },
+        {
+          "id": 5,
+          "title": "Wallet webservice ",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-5.jpeg"
+        },
+        {
+          "id": 6,
+          "title": "Chego jewelry website",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-6.jpeg"
+        },
+        {
+          "id": 7,
+          "title": "Energy flow webservice ",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-7.jpeg"
+        },
+        {
+          "id": 8,
+          "title": "Fruitbox online store",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-8.jpeg"
+        },
+        {
+          "id": 9,
+          "title": "English excellence webservice ",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-9.jpeg"
+        },
+        {
+          "id": 10,
+          "title": "Starlight studio landing page",
+          "description": "React, JavaScript, Node JS, Git",
+          "image": "./src/img/project-10.jpeg"
+        }
+    ]
+  }
